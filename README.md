@@ -7,8 +7,8 @@ This starter kit provides all the essential mechanics needed to build a complete
 
 ## Preview
 
-<img src="docs/png1.png" style="width:300px;" />
-<img src="docs/png2.png" style="width:300px;" />
+<img src="docs/png1.jpg" style="width:300px;" />
+<img src="docs/png2.jpg" style="width:300px;" />
 
 - [Game Preview](https://drive.google.com/file/d/14LLHRoNkabkvsM5QksV6rwHMlIDXj187/view?usp=sharing)
 
