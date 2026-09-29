@@ -1,5 +1,5 @@
 # Game Lab 4: 2D Platformer Game
-นาย ณัฐพงษ์ ศรีเชียงสา  673380440-6
+นาย จิตติพัฒน์ มูลศรี 673380437-5
 
 # 2D Platformer Starter Kit
 
@@ -7,10 +7,10 @@ This starter kit provides all the essential mechanics needed to build a complete
 
 ## Preview
 
-<img src="docs/demo1.png" style="width:300px;" />
-<img src="docs/demo2.png" style="width:300px;" />
+<img src="docs/png1.jpg" style="width:300px;" />
+<img src="docs/png2.jpg" style="width:300px;" />
 
-- [Game Preview](https://drive.google.com/file/d/1Hh63pk3qD-cXpOUa4OXRjpYuPx_Wb297/view?usp=sharing)
+- [Game Preview](https://drive.google.com/file/d/14LLHRoNkabkvsM5QksV6rwHMlIDXj187/view?usp=sharing)
 
 
 ## Features
