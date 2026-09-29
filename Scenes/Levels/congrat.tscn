@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://dq14hgrjxp5uc"]
 
-[ext_resource type="Texture2D" uid="uid://h61yxggcf8db" path="res://Scenes/Levels/0db66ef6-18ca-4dc9-88d3-4e1662476c58.jpg" id="1_51s5g"]
+[ext_resource type="Texture2D" uid="uid://cecbfh4emksk2" path="res://Scenes/Levels/1_KNIGHT/44613915_1889997771037055_2852813038594031616_n.jpg" id="1_51s5g"]
 [ext_resource type="Texture2D" uid="uid://1ay25i0wdihg" path="res://Assets/Icons/cpkku_dark.png" id="1_ytp7k"]
 [ext_resource type="Theme" uid="uid://d3eng5cvycmjf" path="res://Scenes/Prefabs/theme.tres" id="2_51s5g"]
 [ext_resource type="PackedScene" uid="uid://puc4l62gx6et" path="res://Scenes/Prefabs/button_exit.tscn" id="3_weisi"]
@@ -13,9 +13,9 @@ anchors_preset = 0
 offset_right = 1154.0
 offset_bottom = 650.0
 
-[node name="0Db66Ef618Ca4Dc988d34e1662476c58" type="Sprite2D" parent="Control" unique_id=1572874089]
-position = Vector2(-118.687454, 439)
-scale = Vector2(2.1618588, 1.3951368)
+[node name="4461391518899977710370552852813038594031616N" type="Sprite2D" parent="Control" unique_id=320646486]
+position = Vector2(571.5, 393.5)
+scale = Vector2(1.8364487, 1.0239583)
 texture = ExtResource("1_51s5g")
 
 [node name="CpkkuDark" type="Sprite2D" parent="Control" unique_id=813724852]
@@ -88,11 +88,11 @@ anchor_left = 0.5
 anchor_right = 0.5
 offset_left = -539.0
 offset_top = 261.0
-offset_right = -159.0
-offset_bottom = 308.0
+offset_right = -137.0
+offset_bottom = 303.0
 grow_horizontal = 2
 theme = ExtResource("2_51s5g")
 theme_override_constants/outline_size = 10
 theme_override_font_sizes/font_size = 16
-text = "1. ณัฐพงษ์ ศรีเชียงสา 67338440-6"
+text = "1. จิตติพัฒน์ มูลศรี 673380437-5"
 vertical_alignment = 1

@@ -38,9 +38,12 @@ position = Vector2(480, 478)
 position = Vector2(725, 43)
 
 [node name="Trap5" parent="Level" parent_id_path=PackedInt32Array(1752500785) index="6" unique_id=1136611020 instance=ExtResource("5_34g67")]
-position = Vector2(442, 138)
+position = Vector2(448, 89)
 
-[node name="Trap4" parent="Level" parent_id_path=PackedInt32Array(1752500785) index="7" unique_id=1970758885 instance=ExtResource("5_34g67")]
+[node name="Trap6" parent="Level" parent_id_path=PackedInt32Array(1752500785) index="7" unique_id=171002899 instance=ExtResource("5_34g67")]
+position = Vector2(211, 109)
+
+[node name="Trap4" parent="Level" parent_id_path=PackedInt32Array(1752500785) index="8" unique_id=1970758885 instance=ExtResource("5_34g67")]
 position = Vector2(851, 138)
 rotation = 4.712389
 
@@ -70,10 +73,14 @@ position = Vector2(927, 374)
 speed = 30.0
 
 [node name="Enemy3" parent="Enemies" parent_id_path=PackedInt32Array(1580630701) index="2" unique_id=265544775 instance=ExtResource("8_0yyqy")]
-position = Vector2(339, 416)
+position = Vector2(262, 434)
 speed = 50.0
 
-[node name="Enemy5" parent="Enemies" parent_id_path=PackedInt32Array(1580630701) index="3" unique_id=517355601 instance=ExtResource("9_8tkhk")]
+[node name="Enemy6" parent="Enemies" parent_id_path=PackedInt32Array(1580630701) index="3" unique_id=789905403 instance=ExtResource("8_0yyqy")]
+position = Vector2(636, 435)
+speed = 50.0
+
+[node name="Enemy5" parent="Enemies" parent_id_path=PackedInt32Array(1580630701) index="4" unique_id=517355601 instance=ExtResource("9_8tkhk")]
 position = Vector2(585, 448)
 speed = 20.0
 
@@ -89,10 +96,10 @@ text = "Level 3"
 horizontal_alignment = 1
 
 [node name="Label" type="Label" parent="Text" parent_id_path=PackedInt32Array(416249055) index="0" unique_id=2000774536]
-offset_left = -57.0
-offset_top = 105.0
-offset_right = 285.0
-offset_bottom = 234.0
+offset_left = -53.0
+offset_top = 86.0
+offset_right = 289.0
+offset_bottom = 215.0
 theme = ExtResource("10_4kuxc")
 
 [node name="Label2" type="Label" parent="Text" parent_id_path=PackedInt32Array(416249055) index="1" unique_id=1040528611]
